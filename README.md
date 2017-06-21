@@ -1,5 +1,11 @@
 # Production ready microservices: write in Go
 
+Even if you are a beginner, you have probably heard that people love Go because it makes easy to build reliable and efficient applications and services.
+
+But how to write services fast? How to understand if my service is ready to run in production? How to develop necessary requirements and meet them?
+
+During the workshop we will discuss how to design stable, scalable, reliable and performant services. Step by step, we will write a service from scratch and prepare it for the deployment. So, at the end of the workshop participants will be able to run their own services on the Heroku platform.
+
 ## How to prepare for the workshop 
 
 If you would like to join this workshop as a participant, you need to have:
