@@ -1,0 +1,16 @@
+hash: 45a8bf5b393da375203835cd4e901c964b3eb512ce6e7d2babb0af16bbc06d14
+updated: 2017-07-21T10:22:52.772865791+03:00
+imports:
+- name: github.com/julienschmidt/httprouter
+  version: 8c199fb6259ffc1af525cc3ad52ee60ba8359669
+- name: github.com/k8s-community/utils
+  version: f2f61fbfdc7002ad21033e11b7cca6bbb43cd2f0
+  subpackages:
+  - shutdown
+- name: github.com/Sirupsen/logrus
+  version: a3f95b5c423586578a4e099b11a46c2479628cac
+- name: golang.org/x/sys
+  version: 1e99a4f9d247b28c670884b9a8d6801f39a47b77
+  subpackages:
+  - unix
+testImports: []

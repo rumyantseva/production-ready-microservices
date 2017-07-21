@@ -1,0 +1,10 @@
+package: github.com/rumyantseva/production-ready-microservices/practice/12-signals
+import:
+- package: github.com/Sirupsen/logrus
+  version: ^1.0.2
+- package: github.com/julienschmidt/httprouter
+  version: ^1.1.0
+- package: github.com/k8s-community/utils
+  version: ^0.0.2
+  subpackages:
+  - shutdown
