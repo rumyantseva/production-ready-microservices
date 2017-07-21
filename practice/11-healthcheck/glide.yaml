@@ -1,0 +1,6 @@
+package: github.com/rumyantseva/production-ready-microservices/practice/11-healthcheck
+import:
+- package: github.com/Sirupsen/logrus
+  version: ^1.0.2
+- package: github.com/julienschmidt/httprouter
+  version: ^1.1.0
