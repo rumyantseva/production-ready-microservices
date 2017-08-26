@@ -24,5 +24,5 @@ func main() {
 	router.GET("/", home)
 
 	log.Info("Service is ready to listen and serve.")
-	http.ListenAndServe(":8000", router)
+	http.ListenAndServe(":"+port, router)
 }
