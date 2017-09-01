@@ -1,3 +1,7 @@
+This workshop was given at the [GoWayFest](http://goway.io) conference, video (in Russian) is available [here](https://youtu.be/7jNsrSAPORQ).
+
+If you have any questions, please contact me via email: [elena@grahovac.me](mailto:elena@grahovac.me).
+
 # Production ready microservices: write in Go
 
 Even if you are a beginner, you have probably heard that people love Go because it makes easy to build reliable and efficient applications and services.
@@ -18,5 +22,3 @@ If you would like to join this workshop as a participant, you need to have:
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) - to be able to deal with the deployment
 
 If you would like to check yourself, you can try this tutorial: [Getting Started on Heroku with Go](https://devcenter.heroku.com/articles/getting-started-with-go), but it is not required.
-
-If you have any questions, please contact me via email: [elena@grahovac.me](mailto:elena@grahovac.me).
