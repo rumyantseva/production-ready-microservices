@@ -1,4 +1,4 @@
-This workshop was given at the [GoWayFest](http://goway.io) conference, video (in Russian) is available [here](https://youtu.be/7jNsrSAPORQ).
+This workshop was given at the [GoWayFest](http://goway.io) conference in July, 2017. The video (in Russian) is available [here](https://youtu.be/7jNsrSAPORQ).
 
 If you have any questions, please contact me via email: [elena@grahovac.me](mailto:elena@grahovac.me).
 
