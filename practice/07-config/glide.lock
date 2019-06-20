@@ -1,12 +1,14 @@
-hash: 52d732bbcddeae6f48f49fb3790a384274ad7bde41204b99743afc72b986e0ee
-updated: 2017-07-21T07:44:54.25932038+03:00
+hash: 6019f46ae05656f078e95642a58d163bf1c03f8f2786be70566489d2360abe2f
+updated: 2019-06-20T11:11:56.338913-05:00
 imports:
 - name: github.com/julienschmidt/httprouter
-  version: 8c199fb6259ffc1af525cc3ad52ee60ba8359669
-- name: github.com/Sirupsen/logrus
-  version: a3f95b5c423586578a4e099b11a46c2479628cac
+  version: 26a05976f9bf5c3aa992cc20e8588c359418ee58
+- name: github.com/konsorten/go-windows-terminal-sequences
+  version: f55edac94c9bbba5d6182a4be46d86a2c9b5b50e
+- name: github.com/sirupsen/logrus
+  version: 2a22dbedbad1fd454910cd1f44f210ef90c28464
 - name: golang.org/x/sys
-  version: 1e99a4f9d247b28c670884b9a8d6801f39a47b77
+  version: b47fdc937951267e2d980171881317deea47f29b
   subpackages:
   - unix
 testImports: []
