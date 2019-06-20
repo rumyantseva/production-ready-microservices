@@ -1,12 +1,18 @@
-hash: 52d732bbcddeae6f48f49fb3790a384274ad7bde41204b99743afc72b986e0ee
-updated: 2017-07-21T07:44:54.25932038+03:00
+hash: bc8bde7cffd095c38776eb10265e0011d5579f33a12ed606670bf18c73404115
+updated: 2019-06-20T11:27:37.810487-05:00
 imports:
 - name: github.com/julienschmidt/httprouter
-  version: 8c199fb6259ffc1af525cc3ad52ee60ba8359669
-- name: github.com/Sirupsen/logrus
-  version: a3f95b5c423586578a4e099b11a46c2479628cac
+  version: 348b672cd90d8190f8240323e372ecd1e66b59dc
+- name: github.com/konsorten/go-windows-terminal-sequences
+  version: f55edac94c9bbba5d6182a4be46d86a2c9b5b50e
+- name: github.com/rumyantseva/production-ready-microservices
+  version: 759ce485b6a1155db8a13b878c1e8ca87ff27607
+  subpackages:
+  - practice/09-versioning/version
+- name: github.com/sirupsen/logrus
+  version: 839c75faf7f98a33d445d181f3018b5c3409a45e
 - name: golang.org/x/sys
-  version: 1e99a4f9d247b28c670884b9a8d6801f39a47b77
+  version: b47fdc937951267e2d980171881317deea47f29b
   subpackages:
   - unix
 testImports: []
